@@ -1,0 +1,7 @@
+{
+  "name": "FCGatitos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
